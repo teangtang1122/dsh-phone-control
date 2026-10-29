@@ -1,0 +1,22 @@
+{
+  "name": "dsh-phone-control",
+  "version": "0.1.2",
+  "private": true,
+  "description": "A standalone stdio MCP server for observing and controlling one authorized Android device.",
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "start": "node src/server.mjs",
+    "doctor": "node scripts/doctor.mjs",
+    "config": "node scripts/setup.mjs",
+    "test": "node --test scripts/test-*.mjs",
+    "release": "node scripts/release.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.30.0",
+    "zod": "4.4.3"
+  }
+}

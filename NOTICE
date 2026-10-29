@@ -1,0 +1,21 @@
+dsh-phone-control
+
+This is the phone-control wrapper project's attribution notice, not a copy
+of an upstream scrcpy NOTICE file.
+
+The project's own JavaScript and Python wrapper contributions are available
+under the MIT license in LICENSE. That license does not relicense external
+programs or third-party materials.
+
+scrcpy 4.1
+Project: https://github.com/Genymobile/scrcpy
+Copyright (C) 2018 Genymobile
+Copyright (C) 2018-2026 Romain Vimont
+Upstream license: Apache License, Version 2.0
+License copy: LICENSES/scrcpy-4.1-Apache-2.0.txt
+
+The optional Unicode input client interoperates with scrcpy 4.1's clipboard
+control protocol. Users obtain the upstream server separately. No upstream
+scrcpy Java source, desktop executable or server binary is shipped here.
+
+See THIRD_PARTY_NOTICES.md for protocol references and other component links.

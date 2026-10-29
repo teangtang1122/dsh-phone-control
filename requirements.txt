@@ -1,0 +1,3 @@
+# Pillow is required for coordinate rulers and previews. OCR is optional.
+Pillow>=11,<14
+rapidocr-onnxruntime==1.4.4

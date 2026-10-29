@@ -1,0 +1,7 @@
+{
+  "adbPath": "C:/Android/platform-tools/adb.exe",
+  "serial": "REPLACE_WITH_YOUR_DEVICE_SERIAL",
+  "pythonPath": "C:/Python312/python.exe",
+  "ocr": true,
+  "scrcpyServerPath": ""
+}
